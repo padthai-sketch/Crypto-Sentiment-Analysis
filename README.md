@@ -7,20 +7,7 @@ In this assignment, I was asked to apply natural language processing to understa
 3. [Named Entity Recognition](#Named-Entity-Recognition)
 
 
+### According to the Sentiment Analysis of Bitcoin and Ethereum news indicates that Bitcoin outperform Ethereum by having the highest average score at 0.051. It also receives higher positive score and compound score.
 
+(Pic)
 
-
-
-### Questions:
-
-Q: Which coin had the highest mean positive score?
-
-*A: Bitcoin has the highest score at 0.051*
-
-Q: Which coin had the highest compound score?
-
-*A: Bitcoin has the highest score at 92%*
-
-Q. Which coin had the highest positive score?
-
-*A: Bitcoin*
