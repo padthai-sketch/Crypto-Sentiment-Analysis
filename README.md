@@ -10,7 +10,7 @@ In this assignment, I was asked to apply natural language processing to understa
 
 ![ETH Describe](Images/eth.png)
 
-#### **According to the Sentiment Analysis of Bitcoin and Ethereum news indicates that Bitcoin outperform Ethereum by having the highest average score at 0.051. It also receives higher positive score and compound score.**
+#### **The Sentiment Analysis of Bitcoin and Ethereum News indicates that Bitcoin outperformed Ethereum by having the highest average score at 0.051. It also receives a higher positive score and compound score.**
 
 ![BTC Describe](Images/btc_wc.png)
 
