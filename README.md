@@ -6,8 +6,12 @@ In this assignment, I was asked to apply natural language processing to understa
 2. [Natural Language Processing](#Natural-Language-Processing)
 3. [Named Entity Recognition](#Named-Entity-Recognition)
 
+![BTC Describe](Images/btc.png)
+
+![ETH Describe](Images/eth.png)
 
 #### **According to the Sentiment Analysis of Bitcoin and Ethereum news indicates that Bitcoin outperform Ethereum by having the highest average score at 0.051. It also receives higher positive score and compound score.**
 
-![Tux, the Linux mascot](Images/btc.png)
+![BTC Describe](Images/btc_wc.png)
 
+![ETH Describe](Images/eth_wc.png)
